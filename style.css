@@ -56,12 +56,14 @@ header {
     }
 }
 
-nav h1 {
+nav {
     display: flex;
     flex-direction: row;
-    font-family: "bohemian-typewriter";
-
     padding-left: 16px;
+}
+
+.typewriter {
+    font-family: "bohemian-typewriter";
 }
 
 nav > a, nav > a:visited {
