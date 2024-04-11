@@ -1,6 +1,6 @@
 @font-face {
     font-family: "bohemian-typewriter";
-    src: url("fonts/bohemian-typewriter/bohemian-typewriter.regular.ttf") format("tff");
+    src: url("fonts/bohemian-typewriter/bohemian-typewriter.regular.ttf");
     font-display: swap;
 }
 
@@ -56,7 +56,7 @@ header {
     }
 }
 
-nav {
+nav h1 {
     display: flex;
     flex-direction: row;
     font-family: "bohemian-typewriter";
